@@ -70,7 +70,3 @@ Check out my repositories 👉 [github.com/DeveloperMaher?tab=repositories](http
 <p align="center">
   <i>Open to freelance projects and full-time roles — let's build something great together.</i>
 </p>
-
-<p align="center">
-  <i>Open to freelance projects and full-time roles — let's build something great together.</i>
-</p>
