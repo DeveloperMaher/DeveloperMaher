@@ -38,8 +38,8 @@ Currently expanding into **AWS Cloud Engineering** ☁️
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperMaher&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMaher&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
